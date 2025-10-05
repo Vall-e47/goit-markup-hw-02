@@ -1,11 +1,19 @@
 /* Base styles */
-body {
+.page-body {
     font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #FFFFFF;
 }
 
 /* Header */
+.page-header {
+    /* Класс для хедера */
+}
+
+.page-nav {
+    /* Класс для навигации */
+}
+
 .logo-link {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -64,6 +72,11 @@ body {
 .address-link:hover,
 .address-link:focus {
     color: #404bbf;
+}
+
+/* Main */
+.page-main {
+    /* Класс для main */
 }
 
 /* Hero */
