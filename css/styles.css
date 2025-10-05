@@ -2,7 +2,7 @@
 body {
     font-family: "Roboto", sans-serif;
     color: #434455;
-    background-color: #ffffff;
+    background-color: #FFFFFF;
 }
 
 /* Reset margins and paddings */
@@ -57,6 +57,7 @@ img {
 .nav-link {
     font-weight: 500;
     color: #2e2f42;
+    letter-spacing: 0.02em;
 }
 
 .nav-link:hover,
@@ -64,12 +65,18 @@ img {
     color: #404bbf;
 }
 
-.contact-link {
-    color: #434455;
+/* Address styles */
+.address {
+    font-style: normal;
 }
 
-.contact-link:hover,
-.contact-link:focus {
+.address-link {
+    color: #434455;
+    letter-spacing: 0.02em;
+}
+
+.address-link:hover,
+.address-link:focus {
     color: #404bbf;
 }
 
