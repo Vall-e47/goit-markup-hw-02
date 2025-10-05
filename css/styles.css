@@ -24,7 +24,7 @@
     color: #4d5ae5;
 }
 
-.logo-studio-header {
+.logo-studio {
     color: #2e2f42;
 }
 
@@ -62,15 +62,15 @@
     /* Класс для элемента адреса */
 }
 
-.address-link {
+.contact-link {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
 
-.address-link:hover,
-.address-link:focus {
+.contact-link:hover,
+.contact-link:focus {
     color: #404bbf;
 }
 
@@ -92,7 +92,7 @@
     color: #ffffff;
 }
 
-.hero-btn {
+.hero-button {
     background-color: #4d5ae5;
     font-weight: 500;
     font-size: 16px;
@@ -101,8 +101,8 @@
     color: #ffffff;
 }
 
-.hero-btn:hover,
-.hero-btn:focus {
+.hero-button:hover,
+.hero-button:focus {
     background-color: #404bbf;
 }
 
@@ -111,7 +111,7 @@
     /* Класс для секции фич */
 }
 
-.features-heading {
+.section-title {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -143,30 +143,9 @@
     color: #434455;
 }
 
-.features-link {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #4d5ae5;
-}
-
-.features-link:hover,
-.features-link:focus {
-    color: #404bbf;
-}
-
 /* Team */
 .team-section {
     background-color: #f4f4fd;
-}
-
-.section-heading {
-    font-size: 36px;
-    line-height: 1.11;
-    text-align: center;
-    letter-spacing: 0.02em;
-    text-transform: capitalize;
-    color: #2e2f42;
 }
 
 .team-list {
@@ -225,7 +204,7 @@
     background-color: #2e2f42;
 }
 
-.logo-studio-footer {
+.logo-footer {
     color: #f4f4fd;
 }
 
