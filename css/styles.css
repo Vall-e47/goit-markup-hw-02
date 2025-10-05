@@ -143,6 +143,18 @@
     color: #434455;
 }
 
+.features-link {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #4d5ae5;
+}
+
+.features-link:hover,
+.features-link:focus {
+    color: #404bbf;
+}
+
 /* Team */
 .team-section {
     background-color: #f4f4fd;
