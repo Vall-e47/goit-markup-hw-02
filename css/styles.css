@@ -20,6 +20,14 @@ body {
     color: #2e2f42;
 }
 
+.nav-list {
+    /* Класс для навигационного списка */
+}
+
+.nav-item {
+    /* Класс для элемента навигации */
+}
+
 .nav-link {
     font-weight: 500;
     font-size: 16px;
@@ -36,6 +44,14 @@ body {
 /* Address */
 .address-contacts {
     font-style: normal;
+}
+
+.address-list {
+    /* Класс для списка адресов */
+}
+
+.address-item {
+    /* Класс для элемента адреса */
 }
 
 .address-link {
@@ -78,6 +94,10 @@ body {
 }
 
 /* Features */
+.features-section {
+    /* Класс для секции фич */
+}
+
 .features-heading {
     font-size: 36px;
     line-height: 1.11;
@@ -85,6 +105,14 @@ body {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
+}
+
+.features-list {
+    /* Класс для списка фич */
+}
+
+.features-item {
+    /* Класс для элемента фич */
 }
 
 .features-title {
@@ -116,6 +144,14 @@ body {
     color: #2e2f42;
 }
 
+.team-list {
+    /* Класс для списка команды */
+}
+
+.team-item {
+    /* Класс для элемента команды */
+}
+
 .team-title {
     font-weight: 500;
     font-size: 20px;
@@ -132,8 +168,16 @@ body {
 }
 
 /* Portfolio */
+.portfolio-section {
+    /* Класс для секции портфолио */
+}
+
 .portfolio-list {
     /* Класс для списка портфолио */
+}
+
+.portfolio-item {
+    /* Класс для элемента портфолио */
 }
 
 .portfolio-title {
